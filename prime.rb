@@ -5,4 +5,3 @@ def prime?(int)
     else
       true
     end
-end
